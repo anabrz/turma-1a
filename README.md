@@ -1,4 +1,4 @@
-# pchtml.1a
+# turma-1a
 # aula de pensamento computacional 
 limguagem html e css
 # criando meu primeiro repositorio 
